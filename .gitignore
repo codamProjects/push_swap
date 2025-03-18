@@ -1,0 +1,11 @@
+*
+
+!*.c
+!*.h
+!*.py
+!Makefile
+!*.sh
+!README.md
+!checker_linux
+!checker_Mac
+!.gitignore
